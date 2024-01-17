@@ -5,6 +5,7 @@ java version newer than 17.0.9 -> https://www.oracle.com/java/technologies/javas
 
 Java Configuration :
 Go to advance settings of environment variables and do the following:
+
 	Add a JAVA_HOME environment variable with the path of your jdk version.
 	Edit the path variable with the following : %JAVA_HOME%\bin
 	Save it and re-launch the cmd
